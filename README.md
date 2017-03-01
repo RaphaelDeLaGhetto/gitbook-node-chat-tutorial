@@ -1,12 +1,16 @@
+# Foreward
+
+All credit for this tutorial belongs to David VanDusen of [Lighthouse Labs](https://lighthouselabs.com). You can view his original document [here](https://davidvandusen.gitbooks.io/node-chat-tutorial/).
+
 # Introduction
 
-Hello and thank you for joining us for this intro to Web development with JavaScript workshop.
+Howdy! Thanks for joining us for this intro to web development with JavaScript workshop.
 
-My name is David VanDusen, Web bootcamp instructor at Lighthouse Labs, and your instructor today.
+I'm Daniel Bidulock, web bootcamp instructor at Lighthouse Labs, and your instructor today.
 
-My background is in software development, focusing on Web technologies. I started programming at a young age and built websites during some of the most exciting times in the technologies' histories.
+I have a diverse background that includes computer science, radio and television broadcasting, and parish ministry. I became a web developer out of necessity, as it was the most natural and accessible medium through which humans can interact with artificial agents.. 
 
-That said, I started out in fine arts and music and have played everything from piano in a jazz big band to singing in a thrash metal band. Programmers are all sorts of people.
+Contrary to common stereotypes, programmers are a diverse and creative group of people. Learning to program elevates literacy and opens doors to new modes of self expression. 
 
 ## Pair programming
 
