@@ -1,4 +1,4 @@
-# Foreward
+# Foreword
 
 All credit for this tutorial belongs to David VanDusen of [Lighthouse Labs](https://lighthouselabs.com). You can view his original document [here](https://davidvandusen.gitbooks.io/node-chat-tutorial/).
 
